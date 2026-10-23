@@ -1,4 +1,5 @@
-﻿import "server-only";
+﻿
+import "server-only";
 
 // Demo data for the Day 42 security exercise.
 // In-memory data is for learning and testing, not production persistence.
